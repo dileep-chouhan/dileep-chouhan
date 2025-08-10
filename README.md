@@ -36,7 +36,7 @@ My goal is to transform raw data into actionable insights to improve performance
 <h2 align="center">🛠 Tech Stack</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,pandas,numpy,matplotlib,powerbi,mysql,excel,vscode,jupyter,git,github" height="60" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=python,pandas,numpy,matplotlib,powerbi,excel,mysql,git,github,vscode,jupyter" height="60" alt="Tech Stack" />
 </p>
 
 ---
