@@ -34,52 +34,42 @@ My goal is to transform raw data into actionable insights to improve performance
 ---
 
 <h2 align="center">🛠 Tech Stack</h2>
-
 <p align="center">
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=python" height="40" alt="Python logo" />
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/> 
   </a>
-  &nbsp;&nbsp;
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=pandas" height="40" alt="Pandas logo" />
+  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/> 
   </a>
-  &nbsp;&nbsp;
-  <a href="https://numpy.org/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=numpy" height="40" alt="Numpy logo" />
+  <a href="https://numpy.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="Numpy"/> 
   </a>
-  &nbsp;&nbsp;
-  <a href="https://matplotlib.org/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=matplotlib" height="40" alt="Matplotlib logo" />
+  <a href="https://matplotlib.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=matplotlib&logoColor=white" alt="Matplotlib"/> 
   </a>
-  &nbsp;&nbsp;
-  <a href="https://powerbi.microsoft.com/en-us/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=powerbi" height="40" alt="Power BI logo" />
+  <a href="https://powerbi.microsoft.com" target="_blank" rel="noreferrer"> 
+    <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"/> 
   </a>
-  &nbsp;&nbsp;
-  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="MySQL logo" />
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/> 
   </a>
-  &nbsp;&nbsp;
-  <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=excel" height="40" alt="Excel logo" />
+  <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank" rel="noreferrer"> 
+    <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Excel"/> 
   </a>
-  &nbsp;&nbsp;
-  <a href="https://jupyter.org/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=jupyter" height="40" alt="Jupyter logo" />
+  <a href="https://jupyter.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter"/> 
   </a>
-  &nbsp;&nbsp;
-  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="VS Code logo" />
+  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code"/> 
   </a>
-  &nbsp;&nbsp;
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=git" height="40" alt="Git logo" />
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/> 
   </a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=github" height="40" alt="GitHub logo" />
+  <a href="https://github.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/> 
   </a>
 </p>
+
 
 ---
 
