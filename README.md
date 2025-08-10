@@ -60,7 +60,7 @@ My goal is to transform raw data into actionable insights to improve performance
   </a>
   &nbsp;&nbsp;
   <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftexcel/microsoftexcel-original.svg" height="40" alt="Excel" />
+    <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" height="30" alt="Excel" />
   </a>
   &nbsp;&nbsp;
   <a href="https://jupyter.org/" target="_blank" rel="noreferrer">
@@ -76,9 +76,10 @@ My goal is to transform raw data into actionable insights to improve performance
   </a>
   &nbsp;&nbsp;
   <a href="https://github.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" height="40" alt="GitHub" />
   </a>
 </p>
+
 
 
 ---
