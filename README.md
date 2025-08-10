@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <em>Bachelor of Computer Application Student | [cite_start]JNVU [cite: 14, 15]</em>
+  <em>Bachelor of Computer Application Student | JNVU</em>
 </p>
 
 ---
@@ -21,14 +21,14 @@
 <h2 align="center">🚀 About Me</h2>
 
 <p align="center">
-[cite_start]I am a detail-oriented and analytical Data Analyst with a strong foundation in statistics, data visualization, and business intelligence. [cite: 8] 
+I am a detail-oriented and analytical Data Analyst with a strong foundation in statistics, data visualization, and business intelligence. 
 <br>
-[cite_start]I am passionate about collecting, cleaning, and interpreting large datasets to drive strategic decision-making and solve business problems. [cite: 9, 11]
+I am passionate about collecting, cleaning, and interpreting large datasets to drive strategic decision-making and solve business problems.
 <br>
-[cite_start]My goal is to transform raw data into actionable insights to improve performance. [cite: 11]
+My goal is to transform raw data into actionable insights to improve performance.
 <br>
 <br>
-[cite_start]📫 You can reach me at: <b>dileepstr77@gmal.com</b> [cite: 2]
+📫 You can reach me at: <b>dileepstr77@gmal.com</b>
 </p>
 
 ---
@@ -36,7 +36,7 @@
 <h2 align="center">🛠 Tech Stack</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,pandas,numpy,powerbi,mysql,excel,vscode,jupyter,git,github" height="60" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=python,pandas,numpy,matplotlib,powerbi,mysql,excel,vscode,jupyter,git,github" height="60" alt="Tech Stack" />
 </p>
 
 ---
@@ -48,17 +48,17 @@
 <td width="50%" valign="top">
 <h3>Blinkit Data Analysis Dashboard</h3>
 <ul>
-  [cite_start]<li><b>Description:</b> A comprehensive Power BI dashboard created to analyze Blinkit's sales performance, customer satisfaction, and inventory distribution. [cite: 22] [cite_start]The project focuses on providing key insights and identifying opportunities for optimization using various KPIs and visualizations. [cite: 23, 24]</li>
-  [cite_start]<li><b>Tech Stack:</b> Power BI, Excel (for data preprocessing), and DAX (for calculations & measures). [cite: 25]</li>
-  [cite_start]<li><b><a href="https://github.com/dileep-chouhan/Blinkit-Data-Analysis.git">GitHub Repository</a></b> [cite: 26]</li>
+  <li><b>Description:</b> A comprehensive Power BI dashboard created to analyze Blinkit's sales performance, customer satisfaction, and inventory distribution. The project focuses on providing key insights and identifying opportunities for optimization using various KPIs and visualizations.</li>
+  <li><b>Tech Stack:</b> Power BI, Excel, DAX</li>
+  <li><b><a href="https://github.com/dileep-chouhan/Blinkit-Data-Analysis.git">GitHub Repository</a></b></li>
 </ul>
 </td>
 <td width="50%" valign="top">
 <h3>Superstore Sales Analysis</h3>
 <ul>
-  <li><b>Description:</b> An in-depth analysis of sales, customer behavior, and product trends for a superstore. [cite_start]The project resulted in interactive dashboards designed to support data-driven decision-making. [cite: 28]</li>
-  [cite_start]<li><b>Tech Stack:</b> SQL, Python, Excel, and Power BI. [cite: 28]</li>
-  [cite_start]<li><b><a href="https://github.com/dileep-chouhan/Superstore_Sales_Analysis.git">GitHub Repository</a></b> [cite: 29]</li>
+  <li><b>Description:</b> An in-depth analysis of sales, customer behavior, and product trends for a superstore. The project resulted in interactive dashboards designed to support data-driven decision-making.</li>
+  <li><b>Tech Stack:</b> SQL, Python, Excel, Power BI</li>
+  <li><b><a href="https://github.com/dileep-chouhan/Superstore_Sales_Analysis.git">GitHub Repository</a></b></li>
 </ul>
 </td>
 </tr>
@@ -73,9 +73,9 @@
 </p>
 
 <ul>
-  [cite_start]<li><b>Deloitte Australia</b> - Data Analytics Job Simulation on Forage [cite: 44]</li>
-  [cite_start]<li><b>Microsoft</b> - Power BI Workshop & Office Master [cite: 45, 46, 48]</li>
-  [cite_start]<li><b>Data Analytics 101</b> [cite: 47]</li>
+  <li><b>Deloitte Australia</b> - Data Analytics Job Simulation on Forage</li>
+  <li><b>Microsoft</b> - Power BI Workshop & Office Master</li>
+  <li><b>Data Analytics 101</b></li>
 </ul>
 
 ---
